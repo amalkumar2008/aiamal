@@ -9,7 +9,6 @@ mallu-ai/
 - .gitignore
 - package.json
 - README.md
-- vercel.json
 
 ## Vercel
 
